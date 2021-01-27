@@ -23,3 +23,11 @@ td {
   white-space: nowrap;
   text-overflow: ellipsis;
 }
+
+.even-row {
+background-color: #ff33cc;
+}
+
+.odd-row {
+background-color: #e495e4 ;
+}
