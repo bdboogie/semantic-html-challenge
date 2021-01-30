@@ -16,7 +16,16 @@ table {
   border: 5px solid '#800080';
   border-radius: 10px;
   font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
-  border-collapse: collapse
+  border-collapse: collapse;
+}
+
+thead,
+tfoot {
+  background-image: url("./assets/leopardskin.jpg");
+}
+
+tbody {
+  background-image: url("./assets/noise.png");
 }
 
 th {
@@ -24,7 +33,7 @@ th {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  width = 100%
+  width = 100%;
 }
 
 .even-row {
