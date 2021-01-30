@@ -22,11 +22,11 @@ table {
 
 thead,
 tfoot {
-  background-image: url("./assets/leopardskin.jpg");
+  background-image: url("./asset/leopardskin.jpg");
 }
 
 tbody {
-  background-image: url("./assets/noise.png");
+  background-image: url("./asset/noise.png");
 }
 
 th {
