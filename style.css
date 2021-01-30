@@ -34,10 +34,10 @@ th {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  width = 100%;
+  width: 100%;
   text-align: center;
-  padding-top: 40px;
-  padding-bottom: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .even-row {
