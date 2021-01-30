@@ -13,7 +13,7 @@ h1 {
 table {
   table-layout: auto;
   width: 100%;
-  border: 1px solid '#800080';
+  border: 5px solid '#800080';
   border-radius: 10px;
   font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
   border-collapse: collapse
