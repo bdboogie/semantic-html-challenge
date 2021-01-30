@@ -35,9 +35,6 @@ th {
   border: 1px solid #800080;
   color: white;
   overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  width: 100%;
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
