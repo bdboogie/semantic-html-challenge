@@ -44,11 +44,15 @@ th {
 }
 
 .even-row {
-background-color: #ff33cc;
+  background-color: #ff33cc;
   text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;  
 }
 
 .odd-row {
-background-color: #e495e4 ;
+  background-color: #e495e4 ;
   text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px; 
 }
