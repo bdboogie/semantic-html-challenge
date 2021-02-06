@@ -1,7 +1,6 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: helvetica, arial, sans-serif;
   margin: 2em;
 }
 
@@ -20,7 +19,6 @@ table {
 }
 
 thead, tfoot {
-  color: white;
   font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
   background-image: url("./asset/leopardskin.jpg");
   padding-top: 50px;
@@ -35,6 +33,7 @@ tbody {
 th {
   border: 1px solid #800080;
   color: white;
+  font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
   overflow: hidden;
   text-align: center;
   padding-top: 50px;
