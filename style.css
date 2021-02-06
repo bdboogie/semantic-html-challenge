@@ -18,7 +18,7 @@ table {
   border-radius: 10px;
   border-collapse: collapse;
 }
-/*
+
 thead, tfoot {
   color: white;
   font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
@@ -26,9 +26,10 @@ thead, tfoot {
   padding-top: 50px;
   padding-bottom: 50px;
 }
-*/
+
 tbody {
   background-image: url("./asset/leopardskin.jpg");
+  background-image: url("./asset/noise.png");
 }
 
 th {
@@ -39,9 +40,11 @@ th {
   padding-top: 50px;
   padding-bottom: 50px;
 }
-/*
+
 .even-row {
+  background-image: url("./asset/noise.png");
   background-color: #ff33cc;
+  background-blend-mode: overlay;
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;  
@@ -53,4 +56,4 @@ th {
   padding-top: 50px;
   padding-bottom: 50px; 
 }
-*/
+
