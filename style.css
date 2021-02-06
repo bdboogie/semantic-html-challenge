@@ -23,14 +23,13 @@ table {
 thead, tfoot {
   color: white;
   font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
-  <!-- background-image: url("./asset/leopardskin.jpg"); -->
-  background-image: url("./asset/noise.png");
+  background-image: url("./asset/leopardskin.jpg");
   padding-top: 50px;
   padding-bottom: 50px;
 }
 
 tbody {
-  background-image: url("./asset/noise.png");
+  background-image: url("./asset/leopardskin.jpg");
 }
 
 th {
