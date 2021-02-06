@@ -2,6 +2,7 @@
 
 body {
   margin: 2em;
+  font-family:  helvetica, arial, sans-serif;
 }
 
 h1 {
@@ -19,6 +20,7 @@ table {
 }
 
 thead, tfoot {
+  color: white;
   font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
   background-image: url("./asset/leopardskin.jpg");
   padding-top: 50px;
@@ -26,8 +28,7 @@ thead, tfoot {
 }
 
 tbody {
-  background-image: url("./asset/leopardskin.jpg");
-  background-image: url("./asset/noise.png");
+  background-image: url("../asset/noise.png");
 }
 
 th {
@@ -41,7 +42,6 @@ th {
 }
 
 .even-row {
-  background-image: url("./asset/noise.png");
   background-color: #ff33cc;
   background-blend-mode: overlay;
   text-align: center;
@@ -50,10 +50,10 @@ th {
 }
 
 .odd-row {
-  background-image: url("./asset/noise.png");
   background-color: #e495e4 ;
   background-blend-mode: overlay;
   text-align: center;
+  font-family: helvetica, arial, sans-serif;
   padding-top: 50px;
   padding-bottom: 50px; 
 }
