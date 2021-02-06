@@ -16,7 +16,6 @@ table {
   width: 100%;
   border: 5px solid '#800080';
   border-radius: 10px;
-  font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
   border-collapse: collapse;
 }
 /*
@@ -40,7 +39,7 @@ th {
   padding-top: 50px;
   padding-bottom: 50px;
 }
-
+/*
 .even-row {
   background-color: #ff33cc;
   text-align: center;
@@ -54,3 +53,4 @@ th {
   padding-top: 50px;
   padding-bottom: 50px; 
 }
+*/
