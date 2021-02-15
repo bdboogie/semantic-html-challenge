@@ -24,7 +24,7 @@ thead {
   font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
   background-image: url("../asset/leopardskin.jpg");
   background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
-  background-blend-mode: overlay;
+  background-blend-mode: screen;
   padding-top: 50px;
   padding-bottom: 50px;
 }
