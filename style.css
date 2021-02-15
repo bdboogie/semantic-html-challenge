@@ -12,7 +12,7 @@ h1 {
 }
 
 table {
-  table-layout: auto;
+  table-layout: fixed;
   width: 100%;
   border: 5px solid '#800080';
   border-radius: 10px;
@@ -22,7 +22,7 @@ table {
 thead, tfoot {
   color: white;
   font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
-  background-image: url("./asset/leopardskin.jpg");
+  background-image: url("../asset/leopardskin.jpg");
   background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
   background-blend-mode: overlay;
   padding-top: 50px;
