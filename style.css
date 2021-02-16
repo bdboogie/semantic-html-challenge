@@ -32,7 +32,6 @@ thead {
  tfoot {
   color: white;
   font-family: "Rock Salt", "Helvetica Neue", helvetica, arial, sans-serif;
-  background-image: url("./asset/leopardskin.jpg");
   background-color: red; /* linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)); */
   background-image: url("./asset/leopardskin.jpg");
   background-blend-mode: overlay;
